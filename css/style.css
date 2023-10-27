@@ -1,0 +1,16 @@
+.bg-image {
+    background-image: url('../01.jpeg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-image-2 {
+    background-image: url('../03.jpeg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: black;
+}
+
+
